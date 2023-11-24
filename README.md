@@ -25,3 +25,5 @@ Este proyecto, desarrollado con Angular y Node.js, ofrece una aplicación comple
    npm install
    cd ../backend
    npm install
+   
+[![CRUD-DAWA.jpg](https://i.postimg.cc/NjFVDdZ5/CRUD-DAWA.jpg)](https://postimg.cc/NKhpfksc)
